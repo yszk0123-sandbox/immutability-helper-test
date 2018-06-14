@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "immutability-helper-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc"
+  },
+  "dependencies": {
+    "immutability-helper": "^2.7.0"
+  }
+}

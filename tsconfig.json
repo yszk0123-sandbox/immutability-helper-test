@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["esnext", "esnext.array", "dom"],
+    "baseUrl": ".",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "strict": true
+  },
+  "include": ["custom.d.ts", "src"]
+}
